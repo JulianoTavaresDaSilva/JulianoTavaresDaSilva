@@ -7,9 +7,10 @@
 
 ### Técnologias que eu uso no meu dia a dia
 
-<div sytle="display: inline_block"><br/>
+<div sytle="display: inline_block"><br/>[
+ <img aalign="cemter" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img aalign="cemter" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img aalign="cemter" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img aalign="cemter" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
 Atualmente estou no primeiro semestre da graduação em Análise e Desenvolvimento de Sistemas no IFSC, procurando melhorar cada vez mais meus conhecimentos na área da programação! 🖥️📖
