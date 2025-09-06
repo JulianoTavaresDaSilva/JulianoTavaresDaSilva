@@ -16,6 +16,6 @@
  <img aalign="cemter" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Atualmente estou no primeiro semestre da graduação em Análise e Desenvolvimento de Sistemas no IFSC, procurando melhorar cada vez mais meus conhecimentos na área da programação! 🖥️📖
+Atualmente estou no segundo semestre da graduação em Análise e Desenvolvimento de Sistemas no IFSC, procurando melhorar cada vez mais meus conhecimentos na área da programação! 🖥️📖
 
 #### Email: julianotavares06@gmail.com
