@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 🧑🏻‍💻 Juliano Tavares
 
-Me chamo Juliano Tavares, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no SENAI, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSC. 
+Me chamo Juliano Tavares, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no SENAI, com o curso técnico em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando a graduação em Análise e Desenvolvimento de Sistemas pelo IFSC. Sou apaixonado por tecnologia e programação, sempre em busca de novos aprendizados e desafios. Tenho interesse em desenvolvimento de software e web, com foco em Java, JavaScript, React, React Native e Gradle, e busco constantemente aprimorar minhas habilidades para evoluir como desenvolvedor.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianotavares-dev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j_taavares/)
@@ -9,6 +9,14 @@ Me chamo Juliano Tavares, tenho 19 anos e sou natural de Santa Catarina. Conclu�
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -43,6 +51,14 @@ Me chamo Juliano Tavares, tenho 19 anos e sou natural de Santa Catarina. Conclu�
 />
 <img 
     align="left" 
+    alt="Gradle"
+    title="Gradle" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -50,26 +66,25 @@ Me chamo Juliano Tavares, tenho 19 anos e sou natural de Santa Catarina. Conclu�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JulianoTavaresDaSilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoTavaresDaSilva&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=8" 
+    />
 
 </p>
