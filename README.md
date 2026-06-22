@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Juliano Tavares
 
-Me chamo Juliano Tavares, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio no SENAI, com o curso técnico integrado em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando a graduação em Análise e Desenvolvimento de Sistemas pelo IFSC. Tenho grande interesse pela área de tecnologia e programação, estando sempre em busca de novos aprendizados e desafios. Tenho interesse em desenvolvimento de software e web, com foco em Java, JavaScript, React, React Native e Gradle, e busco constantemente aprimorar minhas habilidades para evoluir como desenvolvedor.
+Me chamo Juliano Tavares, tenho 20 anos e sou natural de Santa Catarina. Concluí o ensino médio no SENAI, com o curso técnico integrado em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando a graduação em Análise e Desenvolvimento de Sistemas pelo IFSC. Tenho grande interesse pela área de tecnologia e programação, estando sempre em busca de novos aprendizados e desafios. Tenho interesse em desenvolvimento de software e web, com foco em Java, JavaScript, React, React Native e Gradle, e busco constantemente aprimorar minhas habilidades para evoluir como desenvolvedor.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianotavares-dev/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j_taavares/)
