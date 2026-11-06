@@ -1,7 +1,6 @@
 
 # 👨🏻‍💻 Juliano Tavares
 
-
 Olá! Sou natural de Santa Catarina, formado como Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina (IFSC).
 
 Tenho interesse em desenvolvimento de software, especialmente nas áreas de **backend, desenvolvimento web e inteligência artificial**. Possuo experiência acadêmica e prática com Java, Spring Boot, TypeScript, React, Python e bancos de dados relacionais.
@@ -26,11 +25,12 @@ Estou constantemente aprimorando meus conhecimentos por meio de projetos pessoai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" alt="JavaScript"/>
 </p>
 
-### Frameworks e Bibliotecas
+### Frameworks, Bibliotecas e Runtime
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" title="Spring Boot" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" title="Vite" alt="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="40" title="Vitest" alt="Vitest"/>
 </p>
